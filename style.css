@@ -11,14 +11,14 @@ body{
 }
 .show-btn{
     position: absolute;
-    left: 75%;
+    left: 80%;
     top: 83%;
     width: 90px;
     height: 90px;
-    cursor: pointer;
+    cursor: help;
     border-radius: 50%;
     text-align: center;
-    background: tomato;
+    background: rgb(0, 25, 48);
     color: #fff;
 
 }
@@ -46,7 +46,7 @@ input[type="checkbox"]{
 h5{
     color:#fff;
     padding: 15px;
-    background: tomato;
+    background: rgb(0, 25, 48);
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 
